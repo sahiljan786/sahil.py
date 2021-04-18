@@ -1,4 +1,4 @@
-# Ustad# SIDRA5# Thuglife# Somibro# Gamz#!/usr/bin/python2
+usr/bin/python2
 #coding=utf-8
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,getpass
 os.system('rm -rf .txt')
